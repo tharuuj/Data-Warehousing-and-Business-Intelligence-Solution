@@ -1,4 +1,4 @@
-# Data-Warehousing-and-Store-Management-System
+# Data-Warehousing-and-Business-Intelligence-Solution
 DW &amp; BI solution using the Olist Brazilian e-commerce dataset
 
 
